@@ -2,7 +2,8 @@
 layout: post
 title:  "回顾老东家"
 date:   2021-08-05 00:00:00 +0800
-categories: jekyll update
+categories: 职业生涯
+published: false
 ---
 
   回顾是非常有意义的，在经历了之后回过头来看有不同的体会与感悟
