@@ -2,7 +2,7 @@
 layout: post
 title:  "回顾老东家"
 date:   2021-08-05 00:00:00 +0800
-categories: 职业生涯
+categories: 
 published: false
 ---
 
